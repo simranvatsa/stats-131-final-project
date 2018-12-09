@@ -1,1 +1,1 @@
-# stats-131-final-project
+# STAT 131 – final project
